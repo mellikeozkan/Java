@@ -1,2 +1,2 @@
 # Java
-Bastan Sona Java Örnekleri
+Baştan Sona Java Örnekleri
